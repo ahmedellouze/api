@@ -1,0 +1,1 @@
+{"_id":"crt_686797d2d71145c9b20e51173bb83183","type":"ClientCertificate","parentId":"wrk_ec9b54124a714f6085654667fc2f12e3","modified":1691684393708,"created":1691684393708,"host":"http://fastvisio.local","passphrase":null,"disabled":false,"cert":null,"key":null,"pfx":null,"isPrivate":false}
